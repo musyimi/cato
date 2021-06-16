@@ -1,6 +1,9 @@
 import React from "react";
 import Smart from "../images/catoimage.jpeg";
 import { TiTick } from "react-icons/ti";
+import Footer from "../components/Footer";
+import Bottom from "../components/Bottom";
+import Copyright from "../components/Copyright";
 
 const Homefibre = () => {
   return (
@@ -192,6 +195,15 @@ const Homefibre = () => {
             <p>for 30 days</p>
           </div>
         </div>
+      </div>
+      <div>
+        <Bottom />
+      </div>
+      <div>
+        <Footer />
+      </div>
+      <div>
+        <Copyright />
       </div>
     </div>
   );

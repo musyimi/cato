@@ -43,7 +43,7 @@ const fibrelinks = () => {
             </Link>
           </li>
           <li>
-            <Link className="text-xs" to="/insurance">
+            <Link className="text-xs" to="/iot">
               <AiTwotoneSecurityScan className="ml-4 text-4xl" />
               IOT world
             </Link>

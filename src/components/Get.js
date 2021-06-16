@@ -3,6 +3,7 @@ import Smart from "../images/smart1.jpg";
 import { SiDcentertainment } from "react-icons/si";
 import { GrGamepad, GrTestDesktop } from "react-icons/gr";
 import { AiFillSafetyCertificate } from "react-icons/ai";
+import Copyright from "../components/Copyright";
 
 const Get = () => {
   return (
@@ -64,6 +65,9 @@ const Get = () => {
             </li>
           </ul>
         </div>
+      </div>
+      <div>
+        <Copyright />
       </div>
     </div>
   );

@@ -1,5 +1,8 @@
 import React from "react";
-import Smart from "../images/catoimage.jpeg";
+import Smart from "../images/security.jpg";
+import Footer from "../components/Footer";
+import Bottom from "../components/Bottom";
+import Copyright from "../components/Copyright";
 
 const Securenet = () => {
   return (
@@ -113,6 +116,15 @@ const Securenet = () => {
             </div>
           </div>
         </div>
+      </div>
+      <div>
+        <Bottom />
+      </div>
+      <div>
+        <Footer />
+      </div>
+      <div>
+        <Copyright />
       </div>
     </div>
   );

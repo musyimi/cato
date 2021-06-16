@@ -12,9 +12,8 @@ const Knowhow = () => {
       </p>
       <p className="xs:mx-5 font-semibold lg1:pt-6 lg1:text-center">
         We offer Wide Area Network (WAN) services for global providers and
-        carriers in North America, Latin America and the Caribbean. Our WAN
-        solutions include controlled implementation, on-schedule delivery for
-        final users and 24/7 technical support.
+        carriers in Africa. Our WAN solutions include controlled implementation,
+        on-schedule delivery for final users and 24/7 technical support.
       </p>
 
       <div className="sm1:grid sm1:grid-cols-4 sm1:grid-rows-2 lg1:pt-10 ">
@@ -32,7 +31,7 @@ const Knowhow = () => {
         <div className="inset-0">
           <p className="w-full h-full bg-green-400 xs:px-2 xs:py-3 font-semibold text-green-900 ">
             Our connectivity spans through all urban and remote areas across the
-            american continent.
+            African continent.
           </p>
         </div>
         <div className="inset-0">

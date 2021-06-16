@@ -5,6 +5,9 @@ import { SiDcentertainment } from "react-icons/si";
 import { GrGamepad, GrTestDesktop } from "react-icons/gr";
 import Fibrelinks from "../components/fibrelinks";
 import Smartfibretop from "../components/Smartfibretop";
+import Footer from "../components/Footer";
+import Bottom from "../components/Bottom";
+import Copyright from "../components/Copyright";
 
 import {
   AiFillTwitterCircle,
@@ -78,6 +81,15 @@ const SmartFibre = () => {
             </li>
           </ul>
         </div>
+      </div>
+      <div>
+        <Bottom />
+      </div>
+      <div>
+        <Footer />
+      </div>
+      <div>
+        <Copyright />
       </div>
     </div>
   );

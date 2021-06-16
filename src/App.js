@@ -26,7 +26,7 @@ import Securenet from "./components/Securenet";
 import Fourgwifirouter from "./components/Fourgwifirouter";
 import Entertainment from "./components/Entertainment";
 import Homecctv from "./components/Homecctv";
-import Insurance from "./components/Insurance";
+import Iot from "./components/Iot";
 import Ask from "./components/Ask";
 import Coverage from "./components/Coverage";
 import Offers from "./components/Offers";
@@ -65,7 +65,7 @@ function App() {
           <Route path="/fourgwifirouter" component={Fourgwifirouter} />
           <Route path="/entertainment" component={Entertainment} />
           <Route path="/homecctv" component={Homecctv} />
-          <Route path="/insurance" component={Insurance} />
+          <Route path="/iot" component={Iot} />
           <Route path="/ask" component={Ask} />
           <Route path="/coverage" component={Coverage} />
           <Route path="/offers" component={Offers} />

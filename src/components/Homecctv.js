@@ -1,9 +1,12 @@
 import React from "react";
-import Smart from "../images/catoimage.jpeg";
+import Smart from "../images/cctv.jpg";
 import { RiHomeGearLine } from "react-icons/ri";
 import { MdPeopleOutline } from "react-icons/md";
 import { AiOutlineCloudServer } from "react-icons/ai";
 import { GiCctvCamera } from "react-icons/gi";
+import Footer from "../components/Footer";
+import Bottom from "../components/Bottom";
+import Copyright from "../components/Copyright";
 
 const Homecctv = () => {
   return (
@@ -85,6 +88,15 @@ const Homecctv = () => {
             <span className="ml-24 mt-32 inline-block p-4 rounded-full border-4"></span>
           </div>
         </div>
+      </div>
+      <div>
+        <Bottom />
+      </div>
+      <div>
+        <Footer />
+      </div>
+      <div>
+        <Copyright />
       </div>
     </div>
   );

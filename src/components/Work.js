@@ -10,7 +10,7 @@ const Work = () => {
       <p className="xs:pt-2 lg1:text-center lg1:pt-10">
         Enjoy tailor-made solutions with our comprehensive service catalog.
         Through our infrastructure and partnerships we can reach all corners of
-        the Americas to provide the necessary tools for reliable and always-on
+        Africa to provide the necessary tools for reliable and always-on
         connectivity. We offer field service with on-site interventions as well
         as support for Costumer Premises Equipment (CPE)
       </p>

@@ -94,7 +94,7 @@ const Ethernet = () => {
         <div>
           <p className="xs:p-2 sm1:p-3 sm1:font-light lg1:mt-44 lg1:font-semibold lg1:text-2xl lg1:mx-5">
             Fiber optics, coaxial cable and wireless links ensure connectivity
-            where others only dream of. Reach all corners of the Americas.
+            where others only dream of. Reach all corners of Africa.
           </p>
         </div>
 

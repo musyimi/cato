@@ -1,23 +1,23 @@
 import React from "react";
-import Offer from "../images/offers.jpg";
+import IIot from "../images/iot2.jpg";
 import Footer from "../components/Footer";
 import Bottom from "../components/Bottom";
 import Copyright from "../components/Copyright";
 
-const Offers = () => {
+const Iot = () => {
   return (
     <div>
       <div className="lg1:grid lg1:grid-cols-2 lg1:mt-10">
         <div>
-          <img src={Offer} alt="smart" />
+          <img src={IIot} alt="smart" />
         </div>
         <div className="mt-16 p-4 space-y-2 ml-10">
-          <p className="text-5xl font-bold">Get crazy </p>
-          <p className="text-5xl font-bold">offers</p>
+          <p className="text-5xl font-bold">Cato secure</p>
+          <p className="text-5xl font-bold">IOT</p>
 
           <p>
-            Introduce 10 neighbours to smart home fibre and get a lifetime
-            internet access
+            Cato internet of things helps people live and work smarter, as well
+            as gain complete control over their lives.
           </p>
         </div>
       </div>
@@ -34,4 +34,4 @@ const Offers = () => {
   );
 };
 
-export default Offers;
+export default Iot;

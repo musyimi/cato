@@ -102,7 +102,7 @@ const Vpn = () => {
         <div>
           <p className="xs:p-2 sm1:p-3 lg1:p-0 sm1:font-light lg1:mt-36 lg1:font-semibold lg1:text-2xl lg1:mx-5">
             IG Networks provides the best VPN services with sufficient bandwidth
-            to run the most demanding applications across the Americas.
+            to run the most demanding applications across Africa.
           </p>
         </div>
 

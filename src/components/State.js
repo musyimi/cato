@@ -116,8 +116,7 @@ const State = () => {
             <p>FLEXIBILITY TO CONNECT REGARDLESS OF DISTANCE OR OBSTACLES</p>
             <p>
               We mesh our infraestructure and our partners' to reach all corners
-              of the american continent, from the Diomede Islands in Alaska to
-              the Patagonia.
+              of the African continent.
             </p>
           </div>
 

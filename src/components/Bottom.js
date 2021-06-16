@@ -20,8 +20,7 @@ const Bottom = () => {
         </p>
         <p className="lg1:text-xl">
           We mesh our infrastructure and our partners' to reach all corners of
-          the american continent, from the Diomede Islands in Alaska to the
-          Patagonia.
+          the African continent.
         </p>
       </div>
 
