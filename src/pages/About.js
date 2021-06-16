@@ -2,17 +2,13 @@ import React from "react";
 import Footer from "../components/Footer";
 import Bottom from "../components/Bottom";
 import Copyright from "../components/Copyright";
-import Us from "../images/about.jpg";
+import Us from "../images/aboutus.jpg";
 
 const About = () => {
   return (
     <div className="relative">
       <div>
-        <img
-          className="opacity-90 h-96 w-full object-cover"
-          src={Us}
-          alt="about us"
-        />
+        <img className=" h-96 w-full object-cover" src={Us} alt="about us" />
       </div>
       <div>
         <p className="xs:p-2 absolute lg1:top-24 lg1:text-center lg1:text-3xl lg1:font-thin lg1:mx-10 text-gray-50">

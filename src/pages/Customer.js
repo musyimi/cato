@@ -3,7 +3,7 @@ import Footer from "../components/Footer";
 import Copyright from "../components/Copyright";
 import Bottom from "../components/Bottom";
 import customer from "../images/customer.jpg";
-import { CgEthernet } from "react-icons/cg";
+import { GiWifiRouter } from "react-icons/gi";
 import c1 from "../images/customer1.jpg";
 import c2 from "../images/customer2.jpg";
 import c3 from "../images/customer3.jpg";
@@ -31,12 +31,12 @@ const Customer = () => {
       </div>
       <div>
         <div className="flex justify-center xs:mt-4 sm1:mt-6 lg1:mt-20">
-          <CgEthernet className="text-6xl lg1:text-8xl" />
+          <GiWifiRouter className="text-6xl lg1:text-8xl" />
         </div>
         <div>
           <p className="xs:p-2 sm1:p-3 sm1:font-light lg1:mx-10 lg1:mt-10 lg1:text-2xl">
             In the era of Network Functions Virtualization (NFV) and SD-WAN,
-            Customer Premises Equipment is turning more into a commodity. IG
+            Customer Premises Equipment is turning more into a commodity. Cato
             Networks' CPE service provides your business with the necessary
             equipment in over 45 countries around the world as a convenient
             leasing plan. Forget about the complexity of purchasing and shipping

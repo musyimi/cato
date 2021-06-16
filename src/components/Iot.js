@@ -1,5 +1,5 @@
 import React from "react";
-import IIot from "../images/iot2.jpg";
+import IIot from "../images/iot4.png";
 import Footer from "../components/Footer";
 import Bottom from "../components/Bottom";
 import Copyright from "../components/Copyright";
@@ -9,7 +9,7 @@ const Iot = () => {
     <div>
       <div className="lg1:grid lg1:grid-cols-2 lg1:mt-10">
         <div>
-          <img src={IIot} alt="smart" />
+          <img src={IIot} alt="internet of things" />
         </div>
         <div className="mt-16 p-4 space-y-2 ml-10">
           <p className="text-5xl font-bold">Cato secure</p>

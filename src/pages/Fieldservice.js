@@ -2,11 +2,11 @@ import React from "react";
 import Footer from "../components/Footer";
 import Copyright from "../components/Copyright";
 import Bottom from "../components/Bottom";
-import wildix from "../images/wildix.jpg";
-import { CgEthernet } from "react-icons/cg";
-import w1 from "../images/wildix1.jpg";
-import w2 from "../images/wildix2.jpg";
-import w3 from "../images/wildix3.jpg";
+import wildix from "../images/fieldservice.jpg";
+import { BsGear } from "react-icons/bs";
+import w1 from "../images/fieldservice1.jpg";
+import w2 from "../images/power.jpg";
+import w3 from "../images/field.jpg";
 
 const Fieldservice = () => {
   return (
@@ -31,18 +31,18 @@ const Fieldservice = () => {
       </div>
       <div>
         <div className="flex justify-center xs:mt-4 sm1:mt-6 lg1:mt-20">
-          <CgEthernet className="text-6xl lg1:text-8xl" />
+          <BsGear className="text-6xl lg1:text-8xl" />
         </div>
         <div>
           <p className="xs:p-2 sm1:p-3 sm1:font-light lg1:mx-10 lg1:mt-10 lg1:text-2xl">
-            IG Networks specializes in comprehensive field workforce management
-            solutions for IT and telecom purposes. Resource management and
-            automation of planning, scheduling and reporting of field services
-            can become too complicated for your business. Thanks to our regional
-            operations management and an extensive network of skilled
-            technicians, IG Networks' field support can solve all your needs on
-            the ground, no matter the complexity of the task, in over 45
-            countries.
+            Cato Networks specializes in comprehensive field workforce
+            management solutions for IT and telecom purposes. Resource
+            management and automation of planning, scheduling and reporting of
+            field services can become too complicated for your business. Thanks
+            to our regional operations management and an extensive network of
+            skilled technicians, IG Networks' field support can solve all your
+            needs on the ground, no matter the complexity of the task, in over
+            45 countries.
           </p>
         </div>
       </div>
@@ -50,10 +50,7 @@ const Fieldservice = () => {
         <div>
           <ul className="lg1:p-10 lg1:space-y-20 lg1:text-2xl lg1:text-green-500 lg1:font-semibold lg1:object-contain">
             <li>
-              <p>
-                Managed by our diverse operation centers located in Brazil and
-                Argentina
-              </p>
+              <p>Managed by our diverse operation centers located in Africa</p>
             </li>
             <li>
               <p>24/7/365 Availability</p>
@@ -115,8 +112,12 @@ const Fieldservice = () => {
       <div>
         <Bottom />
       </div>
-      <Footer />
-      <Copyright />
+      <div>
+        <Footer />
+      </div>
+      <div>
+        <Copyright />
+      </div>
     </div>
   );
 };

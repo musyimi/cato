@@ -28,7 +28,7 @@ const ServiceLinks = () => {
             </p>
           </div>
         </Link>
-        <Link to="/dedicated">
+        <Link to="/dcloud">
           <div className="sm1:border-2 sm1:border-green-200 sm1:p-10 sm1:rounded lg1:h-60 lg1:bg-green-300 lg1:text-xl">
             <p className="text-center font-serif lg1:mt-16 ">
               Dedicated cloud connection
