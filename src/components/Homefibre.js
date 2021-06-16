@@ -1,5 +1,5 @@
 import React from "react";
-import Smart from "../images/catoimage.jpeg";
+import Smart from "../images/smart.jpeg";
 import { TiTick } from "react-icons/ti";
 import Footer from "../components/Footer";
 import Bottom from "../components/Bottom";
