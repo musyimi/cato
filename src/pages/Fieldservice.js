@@ -40,7 +40,7 @@ const Fieldservice = () => {
             management and automation of planning, scheduling and reporting of
             field services can become too complicated for your business. Thanks
             to our regional operations management and an extensive network of
-            skilled technicians, IG Networks' field support can solve all your
+            skilled technicians, Cato Networks' field support can solve all your
             needs on the ground, no matter the complexity of the task, in over
             45 countries.
           </p>

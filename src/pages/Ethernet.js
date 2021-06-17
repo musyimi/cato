@@ -71,7 +71,7 @@ const Ethernet = () => {
             </li>
             <li>
               <p>
-                Express and standardized quotation process supported by IG
+                Express and standardized quotation process supported by Cato
                 Networks' powerful real-time platform
               </p>
             </li>

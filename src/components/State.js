@@ -1,4 +1,5 @@
 import React from "react";
+import Bottom from "./Bottom";
 
 const State = () => {
   return (
@@ -98,40 +99,9 @@ const State = () => {
             </div>
           </div>
         </div>
-
-        <div className="bg-gray-50  xs:mt-5 sm1:grid sm1:grid-cols-3 sm1:gap-2 sm1:pb-5 ">
-          <div className="bg-green-300 xs:space-y-5 xs:p-2 ">
-            <p>
-              GLOBAL MANAGEMENT AND LOCAL EXPERTISE IN THE AFRICAN CONTINENT
-            </p>
-            <p>
-              Our local teams of experts enable us to deploy connectivity
-              solutions in a broad array of places and conditions, from big
-              cities to rural areas. Our clients have the ideas, we make them
-              happen
-            </p>
-          </div>
-
-          <div className="bg-green-300 xs:space-y-5 xs:p-2 ">
-            <p>FLEXIBILITY TO CONNECT REGARDLESS OF DISTANCE OR OBSTACLES</p>
-            <p>
-              We mesh our infraestructure and our partners' to reach all corners
-              of the African continent.
-            </p>
-          </div>
-
-          <div className="bg-green-300 xs:space-y-5 xs:p-2 ">
-            <p>
-              INDUSTRY LEADING SERVICE AGREEMENTS WITH FLEXIBILITY AND
-              SCALABILITY IN MIND
-            </p>
-            <p>
-              Our redundant links have above 99.99% of uptime availability. We
-              always strive for excellence and we do so with the highest quality
-              standards in our services
-            </p>
-          </div>
-        </div>
+      </div>
+      <div>
+        <Bottom />
       </div>
     </div>
   );

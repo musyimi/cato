@@ -34,7 +34,7 @@ const Broadband = () => {
         </div>
         <div>
           <p className="xs:p-2 sm1:p-3 sm1:font-light lg1:mx-10 lg1:mt-10 lg1:text-2xl">
-            IG Networks' broadband internet fits your business needs. We offer
+            Cato Networks' broadband internet fits your business needs. We offer
             asymmetrical access through several technologies such as fiber
             optics, coaxial cable modem and wireless links. This is a
             cost-effective and simple service that can be used as a backup to

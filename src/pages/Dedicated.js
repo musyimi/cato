@@ -72,7 +72,7 @@ const Dedicated = () => {
             </li>
             <li>
               <p>
-                Express and standardized quotation process supported by IG
+                Express and standardized quotation process supported by Cato
                 Networks' powerful real-time platform
               </p>
             </li>
@@ -101,8 +101,8 @@ const Dedicated = () => {
 
         <div>
           <p className="xs:p-2 sm1:p-3 lg1:p-0 sm1:font-light lg1:mt-44 lg1:font-semibold lg1:text-2xl lg1:mx-5">
-            Simple process to upgrade your service on demand. With IG Networks'
-            platform, quotations and shopping have never been easier.
+            Simple process to upgrade your service on demand. With Cato
+            Networks' platform, quotations and shopping have never been easier.
           </p>
         </div>
 

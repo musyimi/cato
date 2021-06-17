@@ -34,7 +34,7 @@ const Vpn = () => {
         </div>
         <div>
           <p className="xs:p-2 sm1:p-3 sm1:font-light lg1:mx-10 lg1:mt-10 lg1:text-2xl">
-            Supported by our international backbone of more than 95 nodes, IG
+            Supported by our international backbone of more than 5 nodes, Cato
             Networks' Multiprotocol Label Switching (MPLS) service allow us to
             deliver carrier grade connections to your business. Interconnect
             your branches and increase your transactions with a single service
@@ -47,7 +47,7 @@ const Vpn = () => {
         <div>
           <ul className="lg1:p-10 lg1:space-y-20 lg1:text-2xl lg1:text-green-500 lg1:font-semibold lg1:object-contain">
             <li>
-              <p>Presence in 45 countries with more than 95 nodes</p>
+              <p>Presence in 45 countries with more than 5 nodes</p>
             </li>
             <li>
               <p>
@@ -68,7 +68,7 @@ const Vpn = () => {
             </li>
             <li>
               <p>
-                Express and standardized quotation process supported by IG
+                Express and standardized quotation process supported by Cato
                 Networks' powerful real-time platform
               </p>
             </li>
@@ -101,8 +101,8 @@ const Vpn = () => {
 
         <div>
           <p className="xs:p-2 sm1:p-3 lg1:p-0 sm1:font-light lg1:mt-36 lg1:font-semibold lg1:text-2xl lg1:mx-5">
-            IG Networks provides the best VPN services with sufficient bandwidth
-            to run the most demanding applications across Africa.
+            Cato Networks provides the best VPN services with sufficient
+            bandwidth to run the most demanding applications across Africa.
           </p>
         </div>
 

@@ -24,7 +24,7 @@ const Hybrid = () => {
             Hybrid Dynamic Network
           </div>
           <div className="text-xs text-gray-50  sm1:text-sm lg1:text-lg">
-            The Software-Defined Wide Area Network (SD-WAN) solution from IG
+            The Software-Defined Wide Area Network (SD-WAN) solution from Cato
             Networks
           </div>
         </div>
@@ -35,17 +35,17 @@ const Hybrid = () => {
         </div>
         <div>
           <p className="xs:p-2 sm1:p-3 sm1:font-light lg1:mx-10 lg1:mt-10 lg1:text-2xl">
-            Hybrid Dynamic Network (HDN) is IG Networksi innovative
+            Hybrid Dynamic Network (HDN) is Cato Networks innovative
             “SD-WAN-as-a-Service” solution, which has proven to be the best
             alternative to traditional MPLS and layer 2 connections. These
             products allow fast deployment of branch offices with high
             availability and improved connection to cloud service providers
             without the complications and risks of adopting a specific vendor.
-            IG Networks addresses the complexity of adopting an SD-WAN platform
-            by providing a managed network with superior availability. HDN has
-            four alternatives to meet our customers' most challenging needs:
-            Hybrid Dynamic Broadband (HDB), Hybrid Dynamic Internet (HDI),
-            Hybrid Dynamic VPN (HDV) and Hybrid Dynamic Wireless (HDW)
+            Cato Networks addresses the complexity of adopting an SD-WAN
+            platform by providing a managed network with superior availability.
+            HDN has four alternatives to meet our customers' most challenging
+            needs: Hybrid Dynamic Broadband (HDB), Hybrid Dynamic Internet
+            (HDI), Hybrid Dynamic VPN (HDV) and Hybrid Dynamic Wireless (HDW)
           </p>
         </div>
       </div>
@@ -88,7 +88,7 @@ const Hybrid = () => {
         </div>
         <div>
           <p className="xs:p-2 sm1:p-3 sm1:font-light lg1:mt-32 lg1:font-semibold lg1:text-2xl lg1:mx-5">
-            IG Networks' SD-WAN solution lets you proactively manage your
+            Cato Networks' SD-WAN solution lets you proactively manage your
             network with dashboards and reports so you can keep track of your
             service's performance.
           </p>

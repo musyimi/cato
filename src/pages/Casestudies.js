@@ -60,7 +60,7 @@ const Casestudies = () => {
 
         <div>
           <p className="xs:p-2 sm1:p-3 lg1:p-0 sm1:font-light lg1:mt-44 lg1:font-semibold lg1:text-2xl lg1:mx-5">
-            Wind farms are located in remote and hard to access locations. IG
+            Wind farms are located in remote and hard to access locations. Cato
             Networks was able to bring solutions to this renewable energy
             company
           </p>
