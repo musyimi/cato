@@ -61,7 +61,7 @@ const Homecctv = () => {
             <div className="lg1:mt-2 space-y-1">
               <p className="text-green-500 lg1:ml-10">REAL-TIME FOOTAGE</p>
               <p className="">
-                Turn your house into a smart home with cat automation
+                Turn your house into a smart home with cato automation
               </p>
             </div>
           </div>

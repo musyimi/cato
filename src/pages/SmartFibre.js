@@ -51,8 +51,8 @@ const SmartFibre = () => {
         </div>
         <div className="mt-16 p-4 space-y-2">
           <p className="text-5xl font-bold">Enjoy every moment</p>
-          <p className="text-5xl font-bold">with Cato</p>
-          <p className="text-5xl font-bold">HOME</p>
+          <p className="text-5xl font-bold">with Cato smart home access</p>
+
           <p>An amazing experience awaits you right at home.</p>
         </div>
       </div>
