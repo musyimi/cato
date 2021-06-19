@@ -1,13 +1,35 @@
 import React from "react";
+import emailjs from "emailjs-com";
 import { HiOutlineMail } from "react-icons/hi";
 import { BiPhone } from "react-icons/bi";
 
 const Footer = () => {
+  function sendEmail(e) {
+    e.preventDefault();
+
+    emailjs
+      .sendForm(
+        "gmail",
+        "service_v50k776",
+        e.target,
+        "user_f04fruWTeIfr1IPk0qRaP"
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
+    e.target.reset();
+  }
+
   return (
     <div className="xs:px-2 lg1:grid lg1:grid-cols-2 bg-gray-400">
       <div className="p-2 ">
         <form
-          method="post"
+          onSubmit={sendEmail}
           autoComplete="off"
           className="flex flex-col space-y-4"
         >

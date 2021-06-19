@@ -5,7 +5,11 @@ function ClientPortal() {
     window.location.href = "https://client.phpradius.com/login.php?i=6773210/";
   }, []);
 
-  return <div></div>;
+  return (
+    <div>
+      <p>hi there</p>
+    </div>
+  );
 }
 
 export default ClientPortal;
