@@ -1,5 +1,6 @@
 import React from "react";
 import IIot from "../images/iot4.png";
+import IIot2 from "../images/iot.jpg";
 import Footer from "../components/Footer";
 import Bottom from "../components/Bottom";
 import Copyright from "../components/Copyright";
@@ -20,6 +21,9 @@ const Iot = () => {
             as gain complete control over their lives.
           </p>
         </div>
+      </div>
+      <div>
+        <img className="lg1:px-20" src={IIot2} alt="internet of things" />
       </div>
       <div>
         <Bottom />
