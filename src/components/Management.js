@@ -27,7 +27,7 @@ const midnav = () => {
       </div>
       <div className=" xs:space-y-2 xs:mt-3 text-gray-100 ">
         <p className="font-light text-xl lg1:text-6xl lg1:font-thin">
-          Global Managemenet, Local Expertise
+          Global Management, Local Expertise
         </p>
         <p className="font-semibold z-20 lg1:pt-5 lg1:pr-72">
           Cato Networks provides full-fledged telecommunication data services to
